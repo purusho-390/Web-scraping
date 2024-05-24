@@ -1,0 +1,6 @@
+streamlit==1.9.0
+selenium==4.8.0
+beautifulsoup4==4.11.1
+requests==2.27.1
+webdriver-manager==3.5.3
+ndjson==0.3.1
