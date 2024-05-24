@@ -14,8 +14,8 @@ This project is a web scraper for GrabFood that extracts restaurant information 
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/your-username/grabfood-scraper.git
-    cd grabfood-scraper
+    git clone https://github.com/purusho-390/Web-scraping.git
+    cd Web-scraping
     ```
 
 2. **Install the required packages:**
@@ -32,7 +32,7 @@ This project is a web scraper for GrabFood that extracts restaurant information 
 
 ### Running the Streamlit Application
 
-1. **Create or update the `GrabFoodScraper.py` file:**
+1. **Create or update the `scrap.py` file:**
 
     Ensure that the `GrabFoodScraper` class is defined as shown in the provided script.
 
@@ -74,6 +74,3 @@ This project is a web scraper for GrabFood that extracts restaurant information 
     ```
 
     This will open a new browser window where you can enter the locations and trigger the scraping process.
-
-## Project Structure
-
